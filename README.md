@@ -10,7 +10,7 @@
 <style>
 
 	body {
-		background-color: #BA86B8;
+		background-color: #FFFAF0;
 	}
 	
 	h1 {
@@ -21,18 +21,18 @@
 
 	hr {
 		color: #FFEA5C;
-		opacity: #0.5;
+		opacity: #0.84;
 	}
 
 	body {
 		color: #FFFE92;
 		text-align: left;
-		font-size: 18px;
+		font-size: 13px;
 	}
 
 	a {
 		color: #A3D922;
-		opacity: #0.75;
+		opacity: #0.93;
 	}
 
 </style>
